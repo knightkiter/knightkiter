@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @knightkiter
-- 👀 I’m interested in ...kiteboarding, Futures and options trading
-- 🌱 I’m currently learning ...C++ and Python, HTML and SQL
-- 💞️ I’m looking to collaborate on ...not sure
-- 📫 How to reach me ... kiteknight@gmail.com
-- 😄 Pronouns: ...He,his 
-- ⚡ Fun fact: ... I have a MD degree from the University of Texas Medical School in Houston
+👋 Hi, I'm Michael Lanser
+
+👀 I'm interested in kiteboarding, software development, artificial intelligence, and financial markets.
+
+🌱 I'm currently learning C++, Python, HTML, CSS, SQL, and Git.
+
+💞 I'm open to collaborating on interesting software and technology projects.
+
+📫 Email ... kiteknight@gmail.com
+
+🌐 Portfolio ... https://lanser.com
+
+⚡ Fun fact: Before becoming a software developer, I practiced as a surgeon after earning my M.D. from The University of Texas Medical School at Houston.
 
 <!---
 knightkiter/knightkiter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
