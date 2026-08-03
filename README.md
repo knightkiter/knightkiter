@@ -6,7 +6,7 @@
 
 💞 I'm open to collaborating on interesting software and technology projects.
 
-📫 Email ... kiteknight@gmail.com
+📫 Email ... kiteknight@gmail.com or lanser.michael@titans.easternflorida.edu
 
 🌐 Portfolio ... https://lanser.com
 
