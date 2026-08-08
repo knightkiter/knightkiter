@@ -2,7 +2,7 @@
 
 ### Physician | Computer Science Student | Lifelong Learner
 
-After a career in surgery, I am now studying computer science and software development at Eastern Florida State College. I enjoy combining lifelong learning with interests in technology, artificial intelligence, financial markets, and kiteboarding.
+I am a surgeon currently studying computer science and software development at Eastern Florida State College. I enjoy combining lifelong learning with interests in technology, artificial intelligence, financial markets, and kiteboarding.
 
 ## 💻 Tech Stack
 
