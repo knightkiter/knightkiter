@@ -25,6 +25,10 @@ I am a surgeon currently studying computer science and software development at E
 
 ## 🎓 Education & Professional Development
 
+- Neuro-otology fellowship Univ of Zurich, Switzerland 
+- Otology fellowship 1 year Univ of California San Francisco
+- Otolaryngology Head and Neck Surgery residency 4 years Univ of California San Francisco 
+- General Surgery residency 2 years @ Mt. Zion Hospital San Francisco
 - Doctor of Medicine (MD) — University of Texas Medical School at Houston
 - Bachelor of Arts (BA) — Biochemistry
 - Associate degrees — AA and AS
